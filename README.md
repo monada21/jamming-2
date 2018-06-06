@@ -1,3 +1,2 @@
-# jamming-2
-this project is difficult
-i have just added two lines of code
+# jamming
+This was a great learning experience!
